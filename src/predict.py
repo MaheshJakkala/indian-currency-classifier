@@ -9,6 +9,7 @@ Usage:
 import argparse
 import numpy as np
 from PIL import Image
+from utils import *
 
 LABELS = {
     0: "₹10 — Ten Rupees",
