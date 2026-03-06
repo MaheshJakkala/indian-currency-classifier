@@ -119,7 +119,8 @@ Pre-trained ResNet34 fine-tuned using FastAI's `cnn_learner`.
 
 > Training accuracy reached 100% by epoch ~64, but validation plateaued at ~83%, indicating overfitting on this small dataset — an expected behavior addressed in the ResNet approach.
 
-![CNN Training Curves](assets/training_curves_cnn.png)
+![CNN Training Curves](assets/accuracy_curve_cnn.png)
+![CNN Training Curves](assets/loss_curve_cnn.png)
 
 ### ResNet34 Fine-Tuning — Freeze Phase (5 epochs)
 
